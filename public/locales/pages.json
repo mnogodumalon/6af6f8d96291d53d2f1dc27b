@@ -1,0 +1,25 @@
+{
+  "pages": {
+    "en": {
+      "Aktuell läuft keine Umfrage — lege eine neue an, um Termine abzustimmen.": "No poll is currently running — create a new one to vote on dates.",
+      "Alle offenen Umfragen haben einen finalen Termin.": "All open polls have a final date.",
+      "Erste Umfrage anlegen": "Create first poll",
+      "Finalen Termin festlegen": "Set final date",
+      "Finaler Termin": "Final date",
+      "Ja": "Yes",
+      "Keine Umfragen in dieser Ansicht.": "No polls in this view.",
+      "Link kopieren": "Copy link",
+      "Link kopiert": "Link copied",
+      "Neue Umfrage": "New poll",
+      "Noch keine Terminvorschläge.": "No date proposals yet.",
+      "Offen: {0} — {1} bisher.": "Open: {0} — {1} so far.",
+      "Offene Umfragen": "Open polls",
+      "Ohne finalen Termin": "No final date",
+      "QR-Code öffnen": "Open QR code",
+      "Termin festlegen": "Set date",
+      "Vielleicht": "Maybe",
+      "Wartet auf Entscheidung": "Awaiting decision"
+    }
+  },
+  "v": 1
+}
